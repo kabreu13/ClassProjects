@@ -1,2 +1,1 @@
-# ClassProjects
 Assignments/FSU
